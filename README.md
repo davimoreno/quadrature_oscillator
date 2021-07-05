@@ -8,6 +8,8 @@ The oscillation frequency can be controlled by the clock frequency divided by 10
 
 The url of the svn repository is: https://opencores.org/websvn/listing/quadrature_oscillator/quadrature_oscillator
 
+The url of the git repository is: https://github.com/davimoreno/quadrature_oscillator
+
 # Usage
 The program has only two verilog files and is simple to use. To use them just follow the descriptions present in each of the files.
 
